@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+motor
+spacy
+openai
+python-dotenv
+pydantic
+pydantic-settings
+PyPDF2
+python-multipart
